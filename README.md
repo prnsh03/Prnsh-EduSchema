@@ -52,7 +52,7 @@ EduSchema Management System is a comprehensive educational management tool devel
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/eduschema-management-system.git
+   git clone https://github.com/prnsh03/eduschema-management-system.git
 
 2. Install required Python packages:
    ```sh
