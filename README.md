@@ -1,7 +1,4 @@
-# Prnsh-EduSchema
-EduSchema Management System is an educational management tool built with Python and Tkinter, integrating with a MySQL database. It manages courses, instructors, students, enrollments, assessments, and grades, offering functionalities to add, delete, view records, and backup deleted data.
-
-# EduSchema Management System
+# Prnsh's EduSchema Management System
 
 EduSchema Management System is a comprehensive educational management tool developed using Python and Tkinter for the graphical user interface. The system integrates with a MySQL database to manage various aspects of an educational institution including courses, instructors, students, enrollments, assessments, and grades. It offers functionality to add, delete, and view records in a user-friendly manner. The system also includes a backup feature for deleted records to prevent data loss.
 
